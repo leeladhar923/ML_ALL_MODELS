@@ -1,5 +1,7 @@
 #ML_ALL_MODELS
+
 #This repo consists of all ML algorithms.
+
 **Machine Learning Algorithms:**
 
 Machine learning (ML) is a type of technology that allows computers to
